@@ -1,0 +1,7 @@
+venv/
+.myve/
+__pycache__/
+.env
+vectorstore/
+*.faiss
+*.db
